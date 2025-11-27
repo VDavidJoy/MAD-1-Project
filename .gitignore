@@ -1,0 +1,12 @@
+# Ignore Python cache files
+_pycache/
+*.рус 
+#Ignore virtual environment
+venv/
+# Ignore environment variables file
+.env
+# Ignore system/IDE files
+.DS_Store
+*.log
+.idea/
+.vscode/ 
